@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  color: white;
+  
+}
+
+
+.form-control{
+  background-color: transparent !important;
+  color: white !important;
+}

@@ -1,0 +1,50 @@
+{
+  "signup": [
+    {
+      "id": "a710"
+    },
+    {
+      "id": "2866",
+      "first_name": "mm",
+      "last_name": "",
+      "age": 0,
+      "password": ""
+    },
+    {
+      "id": "2f6b",
+      "first_name": "",
+      "last_name": "",
+      "age": 0,
+      "password": ""
+    },
+    {
+      "id": "5391",
+      "first_name": "shady",
+      "last_name": "shady",
+      "age": "44",
+      "password": "mmmmmm"
+    },
+    {
+      "id": "1328",
+      "first_name": "mmm",
+      "last_name": "mmmm",
+      "age": "44",
+      "password": "bbb"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
